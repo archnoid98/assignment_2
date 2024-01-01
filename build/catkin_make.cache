@@ -1,0 +1,2 @@
+ROShin_jibon_archnoid:roshin_jibon_archnoid
+-DCATKIN_DEVEL_PREFIX=/home/archnoid/assignment2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/archnoid/assignment2_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/archnoid/assignment2_ws/devel
+
+Name: roshin_jibon_archnoid
+Description: Description of roshin_jibon_archnoid
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
